@@ -1,3 +1,7 @@
+body {
+    background-color: #4C4C4C;
+}
+
 #canvas {
     position: absolute;
     left: 50%;
@@ -5,4 +9,5 @@
     background-color: #000;
     margin-top: -300px;
     margin-left: -300px;
+    border: 5px solid #000;
 }
